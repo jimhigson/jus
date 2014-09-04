@@ -1,0 +1,19 @@
+{
+  "name": "jus",
+  "version": "0.0.0",
+  "description": "A tiny, functional event bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jimhigson/jus.git"
+  },
+  "author": "Jim Higson <jim.higson@gmail.com>",
+  "license": "BSD 2 clause",
+  "bugs": {
+    "url": "https://github.com/jimhigson/jus/issues"
+  },
+  "homepage": "https://github.com/jimhigson/jus"
+}
