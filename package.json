@@ -2,7 +2,7 @@
   "name": "jus",
   "version": "0.0.0",
   "description": "A tiny, functional event bus",
-  "main": "index.js",
+  "main": "src/jus.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
